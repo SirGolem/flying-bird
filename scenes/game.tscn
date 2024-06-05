@@ -30,6 +30,7 @@ autostart = true
 [node name="UICanvas" type="CanvasLayer" parent="."]
 
 [node name="FailScreen" type="Control" parent="UICanvas"]
+visible = false
 layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0
